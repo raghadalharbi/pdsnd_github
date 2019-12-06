@@ -1,7 +1,7 @@
 ### Date created
 Created 28 November 2019
 
-### Explore-US-Bikeshare-Data
+### Explore US Bikeshare Data
 
 ### Description
 In this project, I will explore data related to bike share systems for three major cities in the United States which are Chicago, New York City, and Washington. Using Python, I will write a code import the data and answer interesting questions about it by computing descriptive statistics.
