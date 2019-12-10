@@ -19,7 +19,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
     while True:
-      city = input("Which city would you like to search for? New York City, Chicago or Washington?\n")
+      city = input("what city would you like to search for? New York City, Chicago or Washington?\n")
       if city.title() not in ('New York City', 'Chicago', 'Washington'):
         print("Wrong Input! Please Try again.")
         continue
@@ -28,7 +28,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-      month = input("Which month would you like to search for? January, February, March, April, May, June or type 'all'\n")
+      month = input("what month would you like to search for? January, February, March, April, May, June or type 'all'\n")
       if month.title() not in ('January', 'February', 'March', 'April', 'May', 'June','All'):
         print("Wrong Input! Please Try again.")
         continue
@@ -37,7 +37,7 @@ def get_filters():
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-      day = input("Which day would you like to search for? Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or type 'all'\n")
+      day = input("what day would you like to search for? Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or type 'all'\n")
       if day.title() not in ('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'All'):
         print("Wrong Input! Please Try again.")
         continue
