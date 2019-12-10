@@ -1,0 +1,7 @@
+# ignore every file ending with "csv"
+*.csv
+
+# just to make sure I'm gonna list all the files I want to be ignored by git
+Washington.csv
+New_York_City.csv
+Chicago.csv
