@@ -42,5 +42,5 @@ NewYorkCity.csv
 Washington.csv
 
 ### Credits:
-Udacity
-W3school
+Udacity.com
+W3schools.com
