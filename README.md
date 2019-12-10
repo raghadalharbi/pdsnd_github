@@ -24,15 +24,19 @@ When the oldest person was born?
 Most recent birth year?
 Most common birth year?
 ---------
-Datasets:-
+Datasets:
+
 Start Time
 End Time
+---
 Trip Duration
 Start Station
 End Station
-User Type
-The Chicago and New York City files also have the following two columns:
+---
+User Type:
 
+The Chicago and New York City files also have the following two columns:
+---
 Gender
 Birth Year
 
